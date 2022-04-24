@@ -1,0 +1,12 @@
+pwd 看当前位置
+cd .. 回到上层目录
+touch 新建文件
+git mkdir 新建文件夹
+git status 查看状态
+可使用 VScode 修改文件内容，之后 git diff 查看修改
+git add 文件名1 文件名 2  将文件放到暂存区
+git commit -m "" 备注修改内容
+git log 查看所有修改记录
+fork 将文件 fork 到自己的 GitHub 下
+git clone 将文件 clone 到本地，方便修改
+修改之后 git push，同步至 GitHub，pull request
